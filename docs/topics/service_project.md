@@ -1,21 +1,20 @@
 ### Preselected Project
 ------
-My second topic idea is to complete one of the service projects that is offered by one of the professors at Champlain College. I have not selected a specific topic 
-yet however one that I am interested in is building targets for Devin Padens Ethical Hacking classes. 
+My second topic involves creating a golang program that functions as a triage kit as well as a CIS Security Benchmark compliance checker. This program will be able to ssh into a remote system, transfer either the triage or benchmark bash script, run that script, and exfil all of the relevant data back to the base machine. 
 
 ### Why? 
 ------
-I have this chosen as my second project idea because I was having trouble coming up with what I would like to pursue as a capstone project. I am interested in building vulnerable targets for Ethical Hacking because Ethical Hacking 1 was one of my favorite classes I have taken at Champlain College and helping to build targets for it 
-would help me gain more knowlege of ethical hacking techniques and vulnerabitlites as well as providing boxes for my colleges to practice on. 
+I have this chosen as my second project idea because I have never been great at programing and this seems like a good project to get me moving in the right direction. As for why I chose Golang, this was a recommendation by a professor at Champlain College. 
 
 ### Objectives
 ------
-The objectives of this project would be set forth by the professor I am doing this for. However if I do take on the project set forth by Devin, the objectives would be to:
-* Research new vulnerabilites that are being discovered
-* Build a vulnerable virtual machine that can be deployed on Cyber.Local for the ethical hacking 1 class
-* Document all of my work so that the build is recreatable
-* Any other objectives that Devin would give me
+The objectives for this project are as follows:
+* Create a go program that is able to ssh into remote machines
+* transfer a file from base machine to remote machine
+* run script on the remote machine
+* transfer all relevant data back to base machine
+* parse the data into a format that is very easy to read
 
 ### Constraints
 ------
-Again, any constraints would be set by the professor I am completing this project for. 
+The only constriant I can see as of now is simply my inexperience in programming. 
