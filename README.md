@@ -7,4 +7,4 @@ My two topic ideas will be linked below. The one that I am most interested in is
 
 [Physical Security Token](https://github.com/gabequinto/CCC410F22-GabeQuinto/blob/main/docs/topics/securitytokens.md)
 
-[Service Project](https://github.com/gabequinto/CCC410F22-GabeQuinto/blob/main/docs/topics/preselected_project.md)
+[Service Project](https://github.com/gabequinto/CCC410F22-GabeQuinto/blob/main/docs/topics/GolangProgram.md)
