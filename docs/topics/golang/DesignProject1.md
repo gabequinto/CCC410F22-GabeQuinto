@@ -1,6 +1,6 @@
 For this Design Project 1 assignment I have created 5 descrete tasks for myself that I will explain below. 
 
-### Create a Go program to ssh into remote machines
+## Create a Go program to ssh into remote machines
 
 For this task I will be creating the foundation of my program wich is being able to create an ssh session using GO. This is how I will be able to conduct triage or the CIS Compliance checker. 
 
