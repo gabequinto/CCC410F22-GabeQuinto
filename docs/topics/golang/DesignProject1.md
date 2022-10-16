@@ -9,6 +9,8 @@ For my capstone I am attempting to create a golang program that is able to do Li
 One thing to note is that I had zero programming and more specifically golang knowledge going into this project so there was a lot of time spent learning the language in order to 
 complete the objectives. 
 
+[Project Board](https://github.com/gabequinto/CCC410F22-GabeQuinto/projects?query=is%3Aopen)
+
 ### References
 ---
 Leon, John. Security with Go. Packt Publishing, 2018, O'reilly, https://learning-oreilly-com.cobalt.champlain.edu/library/view/security-with-go/9781788627917/.    
