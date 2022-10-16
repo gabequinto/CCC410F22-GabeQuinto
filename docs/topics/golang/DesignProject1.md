@@ -11,5 +11,5 @@ complete the objectives.
 
 ### References
 ---
-Leon, John. Security with Go. Packt Publishing, 2018, O'reilly, https://learning-oreilly-com.cobalt.champlain.edu/library/view/security-with-go/9781788627917/. 
+Leon, John. Security with Go. Packt Publishing, 2018, O'reilly, https://learning-oreilly-com.cobalt.champlain.edu/library/view/security-with-go/9781788627917/.    
 Christopherson, Jonathan Lewis, and Eric Pinnell. “CIS Ubuntu Linux 20.04 LTS Benchmark.” CIS Benchmarks, 31 Mar. 2021.
