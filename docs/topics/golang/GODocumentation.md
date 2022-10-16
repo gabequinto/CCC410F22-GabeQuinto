@@ -19,7 +19,7 @@ For my first task I needed to create an SSH session with a remote machine. The f
 Please note that in this example I am connecting to the remote system without hostkeys but it is recommended that you use hostkeys when possible. 
 
 ### Execute Remote Commands through SSH session
-My second task was to create execute commands on the remote machine through the SSH session that was created in the first task. The following code is how that was completed. 
+My second task was to create execute commands on the remote machine through the SSH session that was created in the first task. The following code is how that was completed.   
 ![image](https://user-images.githubusercontent.com/78443183/196046907-f5756094-5552-4f34-9de1-d1d104f62da9.png)
 
 Note this is a very small snippet of code and relies on having the already set up ssh connection. Another thing to note is that if you want to run mulitple commands over an ssh
