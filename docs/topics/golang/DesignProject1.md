@@ -4,7 +4,7 @@ For my capstone I am attempting to create a golang program that is able to do Li
 * Creating an ssh session with a remote machine 
 * Being able to execute commands on the remote machine
 * Being able to scp files to the remote machine. 
-* Create bashs scripts for triage and security compliance
+
 
 One thing to note is that I had zero programming and more specifically golang knowledge going into this project so there was a lot of time spent learning the language in order to 
 complete the objectives. 
