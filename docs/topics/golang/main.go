@@ -6,10 +6,10 @@ import (
 	"golang.org/x/crypto/ssh"
 )
 
-var username = "gabe"
-var password = "password123"
-var host = "192.168.229.138:22"
-var command = "echo hi"
+var username = "USERNAME"
+var password = "PASSWORD"
+var host = "RemoteSystemIP"
+var command = "COMMAND"
 
 func main() {
 	//authenitcation
