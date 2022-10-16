@@ -9,7 +9,7 @@ For my capstone I am attempting to create a golang program that is able to do Li
 One thing to note is that I had zero programming and more specifically golang knowledge going into this project so there was a lot of time spent learning the language in order to 
 complete the objectives. 
 
-[Project Board](https://github.com/gabequinto/CCC410F22-GabeQuinto/projects?query=is%3Aopen)
+[Project Board](https://github.com/users/gabequinto/projects/6)
 
 ### References
 ---
